@@ -30,7 +30,7 @@ body {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  display: flex;
+  display: flex; 
   align-items: center;
   justify-content: center;
 }
@@ -63,4 +63,8 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.right-content {
+  display: flex;
 }
